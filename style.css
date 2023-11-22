@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;700&family=Roboto:wght@400;700&display=swap");
+
+#logo {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 20vw;
+}
+#brand-mantra {
+  margin: auto;
+  width: max-content;
+  border-top: 100vw;
+  border-color: blue;
+  background-color: bisque;
+  font-family: "lato";
+  font-weight: 100;
+  color: #107777;
+}
+h1 {
+  font-family: "lato";
+  font-weight: 700;
+}
+#intro {
+  font-family: "lato";
+  font-weight: 400;
+}
+h3 {
+  font-family: "lato";
+  font-weight: 500;
+  font-weight: bolder;
+
+  color: black;
+}
+.step {
+  font-weight: bolder;
+}
+#stepbystep {
+  font-family: "lato";
+  font-weight: 400;
+}
+ul {
+  font-family: "lato";
+  font-weight: 400;
+}
