@@ -34,6 +34,7 @@ h3 {
 .step {
   font-weight: bolder;
 }
+
 #stepbystep {
   font-family: "lato";
   font-weight: 400;
@@ -45,6 +46,9 @@ ul {
 footer {
   font-family: "lato";
   font-weight: 400;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 figurecaption {
   font-family: "lato";
@@ -55,4 +59,9 @@ main {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
+}
+#first-step {
+  font-family: "lato";
+  font-weight: 400;
+  font-weight: bolder;
 }
